@@ -14,8 +14,6 @@
 
 *Note: You can also test the last commits by specifying it directly in the Podfile line*
 
-**Available specs**
-Choose the right one depending ton the configuration you need for you app.
 ```ruby
 pod "RealmSwift"
 ```
