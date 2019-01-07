@@ -17,7 +17,7 @@
 **Available specs**
 Choose the right one depending ton the configuration you need for you app.
 
-```
+```ruby
 
 ```
 
